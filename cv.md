@@ -9,7 +9,7 @@
 * **Discord:** dufrane
 * **Email:** dmytro_vasylenko@icloud.com
 * **GitHub:** 
-[dufrane](https://github.com/dufrane "")
+[dufrane](https://github.com/dufrane)
 
 ****
 ### About Myself
@@ -34,7 +34,7 @@ URL session    |
 ****
 ### Code Example
 
-[my gitHub](https://github.com/dufrane "") - here you can find samples of my code
+[my gitHub](https://github.com/dufrane) - here you can find samples of my code
 
 ****
 ### Experience
