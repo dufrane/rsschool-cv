@@ -1,6 +1,6 @@
 # Dmytro Vasylenko
 
-![](https://fs25.fex.net/preview/5044453243/0x0 "dufrane")
+![](rsschool-cv/dufrane.jpg "photo")
 
 ### Contacts
 * **Location:** Helsingborg, Sweden
@@ -8,7 +8,8 @@
 * **Telegram:** +380506628016
 * **Discord:** dufrane
 * **Email:** dmytro_vasylenko@icloud.com
-* **GitHub:** [dufrane](https://github.com/dufrane/ "")
+* **GitHub:** 
+[dufrane](https://github.com/dufrane "")
 
 ****
 ### About Myself
@@ -17,14 +18,15 @@ I am so passionate about development that combined development study with a perm
 
 ****
 ### Skills
-Swift          | xCode 
-:-------------:|:------------------:
-UIKit          |   Understanding of OOP
-Auto layout    |   Unix 
-Storyboards    |   bash   
-Core Data      |   C, C++, CMake 
-Firebase       |   Gtk, Glade
-CocoaPods      |   Git  
+
+Swift          |xCode 
+:-------------:|:-------------:
+UIKit          |Understanding of OOP
+Auto layout    |Unix 
+Storyboards    |bash   
+Core Data      |C, C++, CMake 
+Firebase       |Gtk, Glade
+CocoaPods      |Git  
 JSON           |   
 API            |   
 URL session    |   
@@ -32,7 +34,7 @@ URL session    |
 ****
 ### Code Example
 
-* [gitHub code examples](https://github.com/dufrane/ "")
+[my gitHub](https://github.com/dufrane "") - here you can find samples of my code
 
 ****
 ### Experience
