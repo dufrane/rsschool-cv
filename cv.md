@@ -1,6 +1,6 @@
 # Dmytro Vasylenko
 
-![](https://fs24.fex.net/preview/5044397917/0x0 "dufrane")
+![](https://fs25.fex.net/preview/5044453243/0x0 "dufrane")
 
 ### Contacts
 * **Location:** Helsingborg, Sweden
@@ -17,19 +17,19 @@ I am so passionate about development that combined development study with a perm
 
 ****
 ### Skills
-General                   | Swift
-:------------------------:|:------------------------:
-* Git                     |   * Auto layout
-* Unix                    |   * URL session
-* bash                    |   * API
-* Understanding of OOP    |   * JSON
-* C, C++, CMake           |   * Core Data
-*                         |   * Firebase
-                          |   * CocoaPods
-                          |   * xCode 
-                          |   * Gtk, Glade
-                          |   * UIKit 
-                          |   * Storyboards                       
+General                 | Swift
+:----------------------:|:------------------:
+Git                     |   * Auto layout
+Unix                    |   * URL session
+bash                    |   * API
+Understanding of OOP    |   * JSON
+C, C++, CMake           |   * Core Data
+                        |   * Firebase
+                        |   * CocoaPods
+                        |   * xCode 
+                        |   * Gtk, Glade
+                        |   * UIKit 
+                        |   * Storyboards                       
 ****
 ### Code Example
 
