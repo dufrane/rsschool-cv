@@ -1,8 +1,12 @@
 # Dmytro Vasylenko
+
+![](https://fex.net/s/pmbsdxv "dufrane")
+
 ### Contacts
 * **Location:** Helsingborg, Sweden
 * **Phone:** +46704233467
 * **Telegram:** +380506628016
+* **Discord:** dufrane
 * **Email:** dmytro_vasylenko@icloud.com
 * **GitHub:** [dufrane](https://github.com/dufrane "")
 
@@ -44,8 +48,10 @@ https://github.com/dufrane
 
 ****
 ### Education
+
  #### University: 
 **Ukrainian National Aviation University,** faculty: economy, specialty: marketing
+
 **Ukrainian National Pharmaceutical University,** faculty: pharmacy, specialty: pharmacy
 
 #### Courses:
