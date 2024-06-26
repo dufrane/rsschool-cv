@@ -8,7 +8,7 @@
 * **Telegram:** +380506628016
 * **Discord:** dufrane
 * **Email:** dmytro_vasylenko@icloud.com
-* **GitHub:** [dufrane](https://github.com/dufrane "")
+* **GitHub:** [dufrane](https://github.com/dufrane/ "")
 
 ****
 ### About Myself
@@ -17,23 +17,22 @@ I am so passionate about development that combined development study with a perm
 
 ****
 ### Skills
-General                 | Swift
-:----------------------:|:------------------:
-Git                     |   * Auto layout
-Unix                    |   * URL session
-bash                    |   * API
-Understanding of OOP    |   * JSON
-C, C++, CMake           |   * Core Data
-                        |   * Firebase
-                        |   * CocoaPods
-                        |   * xCode 
-                        |   * Gtk, Glade
-                        |   * UIKit 
-                        |   * Storyboards                       
+Swift          | xCode 
+:-------------:|:------------------:
+UIKit          |   Understanding of OOP
+Auto layout    |   Unix 
+Storyboards    |   bash   
+Core Data      |   C, C++, CMake 
+Firebase       |   Gtk, Glade
+CocoaPods      |   Git  
+JSON           |   
+API            |   
+URL session    |   
+                     
 ****
 ### Code Example
 
-[gitHub code examples](https://github.com/dufrane "")
+* [gitHub code examples](https://github.com/dufrane/ "")
 
 ****
 ### Experience
