@@ -4,7 +4,7 @@
 * **Phone:** +46704233467
 * **Telegram:** +380506628016
 * **Email:** dmytro_vasylenko@icloud.com
-* **GitHub:** dufrane
+* **GitHub:** [dufrane](https://github.com/dufrane "")
 
 ****
 ### About Myself
@@ -38,9 +38,9 @@ https://github.com/dufrane
 
 ****
 ### Experience
-* [Workout](https://github.com/dufrane/pet-workOut-app "")– it’s an app which help us to keep the shape, written on Swift using Realm, UI written programmatically 
-* [FlashChat](https://github.com/dufrane/flashChat "")– is an internet based messaging app using a service Firebase Firestore as a backend database to store and retrieve messages from the cloud 
-* [Todoey](https://github.com/dufrane/Todoey_Realm "")– simple todo app, written using Realm, implemented random colors of categories and gradient color todo items 
+* [Workout](https://github.com/dufrane/pet-workOut-app "it’s an app which help us to keep the shape, written on Swift using Realm, UI written programmatically") – it’s an app which help us to keep the shape, written on Swift using Realm, UI written programmatically 
+* [FlashChat](https://github.com/dufrane/flashChat "is an internet based messaging app using a service Firebase Firestore as a backend database to store and retrieve messages from the cloud") – is an internet based messaging app using a service Firebase Firestore as a backend database to store and retrieve messages from the cloud 
+* [Todoey](https://github.com/dufrane/Todoey_Realm "simple todo app, written using Realm, implemented random colors of categories and gradient color todo items") – simple todo app, written using Realm, implemented random colors of categories and gradient color todo items 
 
 ****
 ### Education
