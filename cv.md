@@ -17,19 +17,23 @@ I am so passionate about development that combined development study with a perm
 
 ****
 ### Skills
+General                   | Swift
+:------------------------:|:------------------------:
 * Git                     |   * Auto layout
 * Unix                    |   * URL session
 * bash                    |   * API
 * Understanding of OOP    |   * JSON
-* xCode                   |   * Core Data
-* Swift                   |   * Firebase
-* Swift Package Manager   |   * CocoaPods
-* UIKit                   |   * C, C++, CMake
-* Storyboards             |   * Gtk, Glade
-
+* C, C++, CMake           |   * Core Data
+*                         |   * Firebase
+                          |   * CocoaPods
+                          |   * xCode 
+                          |   * Gtk, Glade
+                          |   * UIKit 
+                          |   * Storyboards                       
 ****
 ### Code Example
-https://github.com/dufrane
+
+[gitHub code examples](https://github.com/dufrane "")
 
 ****
 ### Experience
@@ -40,10 +44,8 @@ https://github.com/dufrane
 ****
 ### Education
 
- #### University: 
-
+#### University: 
 **Ukrainian National Aviation University,** faculty: economy, specialty: marketing
-
 **Ukrainian National Pharmaceutical University,** faculty: pharmacy, specialty: pharmacy
 
 #### Courses:
