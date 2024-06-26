@@ -38,21 +38,20 @@ https://github.com/dufrane
 
 ****
 ### Experience
-* [Workout](https://github.com/dufrane/pet-workOut-app "– it’s an app which help us to keep the shape, written on Swift using Realm, UI written programmatically")  
-* FlashChat – is an internet based messaging app using a service Firebase Firestore as a backend database to store and retrieve messages from the cloud https://github.com/dufrane/flashChat
-* Todoey – simple todo app, written using Realm, implemented random colors of categories and gradient color todo items https://github.com/dufrane/Todoey_Realm
+* [Workout](https://github.com/dufrane/pet-workOut-app "")– it’s an app which help us to keep the shape, written on Swift using Realm, UI written programmatically 
+* [FlashChat](https://github.com/dufrane/flashChat "")– is an internet based messaging app using a service Firebase Firestore as a backend database to store and retrieve messages from the cloud 
+* [Todoey](https://github.com/dufrane/Todoey_Realm "")– simple todo app, written using Realm, implemented random colors of categories and gradient color todo items 
 
 ****
 ### Education
  #### University: 
-* **Ukrainian National Aviation University,** faculty: economy, specialty: marketing
-* **Ukrainian National Pharmaceutical University,** faculty: pharmacy, specialty: pharmacy
+**Ukrainian National Aviation University,** faculty: economy, specialty: marketing
+**Ukrainian National Pharmaceutical University,** faculty: pharmacy, specialty: pharmacy
 
-****
-### Courses:
+#### Courses:
 * **Paul Hadson** - "100 days of Swift" and "100 days of SwiftUI"
 * **Udemy** - Angela Yu "The Complete iOS App Development Bootcamp"
-* **Ray** Wanderlich
+* **Ray Wanderlich**
 * **Alex Skutarenko** - iOs course
 * **Epam** - Swift basic
 * **Ucode** - C and C++ trek
