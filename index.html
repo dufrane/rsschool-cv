@@ -1,146 +1,168 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV - Dmytro Vasylenko</title>
-</head>
-<body>
-  <div>
-    <div>
-      <h1>Dmytro Vasylenko</h1>
-      <img src="dufrane.jpg" alt="profile photo" width="200" height="200">
-    </div>
-    <div>
-      <h2>Contacts</h2>
-      <ul>
-        <li><strong>Location:</strong> Helsingborg, Sweden</li>
-        <li><strong>Phone:</strong> +46704233467</li>
-        <li><strong>Telegram:</strong> +380506628016</li>
-        <li>
-          <strong>Discord:</strong>
-          <a href="https://discordapp.com/users/dufrane" target="_blank">dufrane</a>
-        </li>
-        <li>
-          <strong>Email:</strong>
-          <a href="mailto:dmytro_vasylenko@icloud.com">dmytro_vasylenko@icloud.com</a>
-        </li>
-      </ul>
-    </div>
-    <div>
-      <h2>About Myself</h2>
-      <p> Believe that discipline is more important than motivation.
-        I am so passionate about development that combined development
-        study with a permanent job.
-      </p>
-    </div>
-    <div>
-      <h2>Skills</h2>
-      <table>
-        <thead>
-          <tr>
-            <th scope="col">Skill</th>
-            <th scope="col">Details</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Swift</td>
-            <td>xCode</td>
-          </tr>
-          <tr>
-            <td>UIKit</td>
-            <td>Understanding of OOP</td>
-          </tr>
-          <tr>
-            <td>Auto layout</td>
-            <td>Unix</td>
-          </tr>
-          <tr>
-            <td>Storyboards</td>
-            <td>bash</td>
-          </tr>
-          <tr>
-            <td>Core Data</td>
-            <td>C, C++, CMake</td>
-          </tr>
-          <tr>
-            <td>Firebase</td>
-            <td>Gtk, Glade</td>
-          </tr>
-          <tr>
-            <td>CocoaPods</td>
-            <td>Git</td>
-          </tr>
-          <tr>
-            <td>JSON</td>
-            <td>API</td>
-          </tr>
-          <tr>
-            <td>URL session</td>
-            <td></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div>
-      <h2>Code Example</h2>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV - Dmytro Vasylenko</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#code-example">Code Example</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#english">English</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div class="container">
+        <div>
+          <h1>Dmytro Vasylenko</h1>
+          <img
+            class="profile-photo"
+            src="dufrane.jpg"
+            alt="profile photo"
+            width="200"
+            height="200"
+          />
+        </div>
+        <div id="about">
+          <h2>About Myself</h2>
+          <p>
+            Believe that discipline is more important than motivation. I am so
+            passionate about development that combined development study with a
+            permanent job.
+          </p>
+        </div>
+        <div id="skills">
+          <h2>Skills</h2>
+          <div class="table-container">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Skill</th>
+                  <th scope="col">Details</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Swift</td>
+                  <td>xCode</td>
+                </tr>
+                <tr>
+                  <td>UIKit</td>
+                  <td>Understanding of OOP</td>
+                </tr>
+                <tr>
+                  <td>Auto layout</td>
+                  <td>Unix</td>
+                </tr>
+                <tr>
+                  <td>Storyboards</td>
+                  <td>bash</td>
+                </tr>
+                <tr>
+                  <td>Core Data</td>
+                  <td>C, C++, CMake</td>
+                </tr>
+                <tr>
+                  <td>Firebase</td>
+                  <td>Gtk, Glade</td>
+                </tr>
+                <tr>
+                  <td>CocoaPods</td>
+                  <td>Git</td>
+                </tr>
+                <tr>
+                  <td>JSON</td>
+                  <td>API</td>
+                </tr>
+                <tr>
+                  <td>URL session</td>
+                  <td></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div id="code-example">
+          <h2>Code Example</h2>
+          <p>
+            <a href="https://github.com/dufrane">my GitHub</a> - here you can
+            find samples of my code
+          </p>
+        </div>
+        <div id="experience">
+          <h2>Experience</h2>
+          <ul>
+            <li>
+              <a href="https://github.com/dufrane/pet-workOut-app">Workout</a> –
+              it’s an app which helps us to keep in shape, written in Swift
+              using Realm, UI written programmatically
+            </li>
+            <li>
+              <a href="https://github.com/dufrane/flashChat">FlashChat</a> – an
+              internet-based messaging app using Firebase Firestore as a backend
+              database to store and retrieve messages from the cloud
+            </li>
+            <li>
+              <a href="https://github.com/dufrane/Todoey_Realm">Todoey</a> – a
+              simple todo app, written using Realm, implemented random colors of
+              categories and gradient color todo items
+            </li>
+          </ul>
+        </div>
+        <div id="education">
+          <h2>Education</h2>
+          <h3>University:</h3>
+          <p>
+            <strong>Ukrainian National Aviation University,</strong> faculty:
+            economy, specialty: marketing
+          </p>
+          <p>
+            <strong>Ukrainian National Pharmaceutical University,</strong>
+            faculty: pharmacy, specialty: pharmacy
+          </p>
+          <h3>Courses:</h3>
+          <ul>
+            <li>
+              <strong>Paul Hadson</strong> - "100 days of Swift" and "100 days
+              of SwiftUI"
+            </li>
+            <li>
+              <strong>Udemy</strong> - Angela Yu "The Complete iOS App
+              Development Bootcamp"
+            </li>
+            <li><strong>Ray Wanderlich</strong></li>
+            <li><strong>Alex Skutarenko</strong> - iOS course</li>
+            <li><strong>Epam</strong> - Swift basic</li>
+            <li><strong>Ucode</strong> - C and C++ trek</li>
+          </ul>
+        </div>
+        <div id="english">
+          <h2>English</h2>
+          <p><strong>B2</strong> - upper intermediate</p>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>2024 Dmytro Vasylenko</p>
       <p>
-        <a href="https://github.com/dufrane">my GitHub</a> - here you can find
-        samples of my code
+        <a href="https://github.com/dufrane">dufrane</a>
+        <a href="https://rs.school/courses/javascript-ru"
+          >RS School JavaScript Course</a
+        >
       </p>
-    </div>
-    <div>
-      <h2>Experience</h2>
-      <ul>
-        <li>
-          <a href="https://github.com/dufrane/pet-workOut-app">Workout</a> –
-          it’s an app which helps us to keep in shape, written in Swift using
-          Realm, UI written programmatically
-        </li>
-        <li>
-          <a href="https://github.com/dufrane/flashChat">FlashChat</a> – an
-          internet-based messaging app using Firebase Firestore as a backend
-          database to store and retrieve messages from the cloud
-        </li>
-        <li>
-          <a href="https://github.com/dufrane/Todoey_Realm">Todoey</a> – a
-          simple todo app, written using Realm, implemented random colors of
-          categories and gradient color todo items
-        </li>
-      </ul>
-    </div>
-    <div>
-      <h2>Education</h2>
-      <h3>University:</h3>
-      <p>
-        <strong>Ukrainian National Aviation University,</strong> faculty:
-        economy, specialty: marketing
-      </p>
-      <p>
-        <strong>Ukrainian National Pharmaceutical University,</strong>
-        faculty: pharmacy, specialty: pharmacy
-      </p>
-      <h3>Courses:</h3>
-      <ul>
-        <li>
-          <strong>Paul Hadson</strong> - "100 days of Swift" and "100 days of
-          SwiftUI"
-        </li>
-        <li>
-          <strong>Udemy</strong> - Angela Yu "The Complete iOS App Development
-          Bootcamp"
-        </li>
-        <li><strong>Ray Wanderlich</strong></li>
-        <li><strong>Alex Skutarenko</strong> - iOS course</li>
-        <li><strong>Epam</strong> - Swift basic</li>
-        <li><strong>Ucode</strong> - C and C++ trek</li>
-      </ul>
-    </div>
-    <div>
-      <h2>English</h2>
-      <p><strong>B2</strong> - upper intermediate</p>
-    </div>
-  </div>
-</body>
+      <img src="img/rs-school-logo.svg" alt="RS School Logo" width="100" />
+    </footer>
+  </body>
 </html>
